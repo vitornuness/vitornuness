@@ -1,0 +1,18 @@
+---
+import Copy from "../components/Copy.astro";
+import Social from "../components/Social.astro";
+import Title from "../components/Title.astro";
+import AppLayout from "../layouts/AppLayout.astro";
+---
+
+<AppLayout>
+    <section class="h-screen flex flex-col items-center justify-center">
+        <div class="mb-4">
+            <Title />
+        </div>
+        <div class="container text-center">
+            <Social />
+            <Copy />
+        </div>
+    </section>
+</AppLayout>

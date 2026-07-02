@@ -1,0 +1,17 @@
+---
+const { href, text } = Astro.props;
+---
+
+<a
+    href={href}
+    target="_blank"
+    title="Clique para acessar o link em outra aba."
+    class="text-sky-300 outline-sky-500 outline-offset-4 rounded
+        transition-all *:transition-all duration-300 *:duration-300 ease-out
+        [&_span]:underline [&_span]:underline-offset-4
+        hover:[&_span]:underline-offset-8 hover:[&_span]:px-1
+        focus:[&_span]:underline-offset-8 focus:[&_span]:px-1
+        hover:text-sky-500 focus:text-sky-500 focus:outline-2"
+>
+    &lt;<span>{text}</span>&gt;
+</a>
