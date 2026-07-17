@@ -1,13 +1,19 @@
-# Olá, prazer me chamo Vitor Nunes da Silva 🖐!
+# Olá, sou o Vitor Nunes da Silva 👋😄
 *Desenvolvedor Fullstack*
 
-Graduando em Análise e Desenvolvimento de Sistemas.
+Graduado em Análise e Desenvolvimento de Sistemas, atuo no desenvolvimento de aplicações web robustas, escaláveis e eficientes.
 
-Sou Desenvolvedor Fullstack, com foco no Backend em Java com Spring, Frontend com React e Angular, e bancos de dados relacionais SQL.
+Atualmente, meu foco principal está no ecossistema PHP e JavaScript, utilizando ferramentas como Bootstrap, jQuery e MySQL para entregar soluções dinâmicas e de alta performance. Ao longo da minha trajetória profissional e acadêmica, construí uma base sólida que me permite transitar com facilidade entre diferentes arquiteturas e frameworks modernos, incluindo:
 
-Na minha carreira profissional e acadêmica, já utilizei tecnologias como: Laravel, .NET e Vue. Também, já realizei manutenções em sistemas legados, que utilizam Java 6, SVN e requisições SOAP. Abaixo estão minhas sociais para contato e as tecnologias que já utilizei em projetos (ordenado por afinidade).
+- Backend: Laravel, Livewire, .NET, Java e Spring Boot.
+- Frontend: React, Vue.js e Tailwind CSS.
+- DevOps & Qualidade: Práticas de CI/CD e testes automatizados com Pest.
 
-vitor1nuness@gmail.com | [+55 (14) 99706-1888](https://wa.me/+5514997061888?text=Olá%20Vitor.%20Tudo%20bem?)
+Além da bagagem com tecnologias modernas, possuo experiência na manutenção e evolução de sistemas legados complexos (envolvendo Java 6, SVN e integrações SOAP), o que me deu uma forte capacidade de resolução de problemas, adaptabilidade e entendimento técnico profundo.
+
+Mantenho-me em constante evolução para aplicar as melhores práticas de engenharia de software nos projetos em que atuo.
+
+[vitor1nuness@gmail.com](mailto:vitor1nuness@gmail.com) | [linkedin](https://linkedin.com/in/vitornunesdasilva) | [instagram](https://instagram.com/inuness01)
 
 #
 
@@ -54,15 +60,3 @@ vitor1nuness@gmail.com | [+55 (14) 99706-1888](https://wa.me/+5514997061888?text
 - ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
-#
-
-[![VitorNuness's GitHub stats](https://github-readme-stats.vercel.app/api?username=VitorNuness&show_icons=true&theme=transparent&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VitorNuness&layout=compact&theme=transparent&langs_count=8)
-
-### Projetos
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VitorNuness&repo=sellers&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VitorNuness&repo=checkout-inteligente-front&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VitorNuness&repo=checkout-inteligente-back&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
